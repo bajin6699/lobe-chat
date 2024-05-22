@@ -1,8 +1,8 @@
 {
-  "installCommand": "bun install"
+  "installCommand": "bun install",
   "github": {
     "silent": true
-  }
+  },
   "headers": [
     {
       "source": "/(.*)",
